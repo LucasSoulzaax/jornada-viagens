@@ -45,6 +45,7 @@ button {
 h1{
   font-family: "Montserrat";
   font-weight: (--titles-weight);
+  color: var(---primary-color);
 }
 
 
